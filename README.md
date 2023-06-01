@@ -1,4 +1,4 @@
-<p align=center>
+<p align=center >
   <img align="center" alt="Banner" src ="https://scontent.fmnl3-2.fna.fbcdn.net/v/t39.30808-6/307167113_117078824464755_6461386438256405854_n.png?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFf4jKyk60jGVAwTt4nX4S2nJlC_GyApQycmUL8bIClDMLaxoGHm6COzwacilPdKktaBHPZUR1ACnefoDik0df9&_nc_ohc=ujnuKhxBzEQAX_1IJeB&_nc_ht=scontent.fmnl3-2.fna&oh=00_AfCS1xIROSDtE698rR9cBgPMzbZ8HMQ3v8ZtMqCrXul0Rg&oe=647E5AD0"/>
 </p>
 
@@ -8,10 +8,12 @@ Google Developer Student Clubs University of the East Caloocan is a community gr
 
 <br />
 
-# 🚀 Performance optimizations for the Website:
-- <a href="https://developer.mozilla.org/en-US/docs/Glossary/Minification"> Minification </a> - process of removing unnecessary or redundant data without affecting how a resource is processed by the browser.
-- <a href="https://developer.mozilla.org/en-US/docs/Glossary/GZip_compression"> GZip Compression </a> - based on the Deflate algorithm that allows files to be made smaller in size which allows for faster network transfers.
-- <a href="https://developer.mozilla.org/en-US/docs/Glossary/Brotli_compression"> Brotli </a> - general-purpose lossless compression algorithm.
+# 📚 Libraries / Frameworks Used: (MEAN)
+- <a href="https://www.mongodb.com/"> Mongo DB </a> - Data platform that provides the services and tools necessary to build distributed applications fast, at the performance and scale users demand.
+- <a href="https://expressjs.com/"> Express JS </a> - Minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+- <a href="https://angularjs.org/"> Angular JS </a> - Toolset for building the framework most suited to your application development. It is fully extensible and works well with other libraries.
+- <a href="https://nodejs.org/"> Node JS </a> - Open-source, cross-platform JavaScript runtime environment.
+
 
 <br />
 
@@ -21,6 +23,12 @@ Google Developer Student Clubs University of the East Caloocan is a community gr
 
 <br />
 
+# 🚀 Performance optimizations for the Website:
+- <a href="https://developer.mozilla.org/en-US/docs/Glossary/Minification"> Minification </a> - process of removing unnecessary or redundant data without affecting how a resource is processed by the browser.
+- <a href="https://developer.mozilla.org/en-US/docs/Glossary/GZip_compression"> GZip Compression </a> - based on the Deflate algorithm that allows files to be made smaller in size which allows for faster network transfers.
+- <a href="https://developer.mozilla.org/en-US/docs/Glossary/Brotli_compression"> Brotli </a> - general-purpose lossless compression algorithm.
+
+<br />
 
 # 🌎 Social Media Handle:
 - <a href="https://gdsc.community.dev/university-of-the-east-caloocan-campus/"> GDSC Community Dev </a>
