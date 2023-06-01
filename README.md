@@ -21,8 +21,11 @@ Google Developer Student Clubs University of the East Caloocan is a community gr
 
 <br />
 
+
 # 🌎 Social Media Handle:
 - <a href="https://gdsc.community.dev/university-of-the-east-caloocan-campus/"> GDSC Community Dev </a>
 - <a href="https://www.facebook.com/gdscuecaloocan"> Facebook </a>
 - <a href="https://www.linkedin.com/company/google-developer-student-clubs-ue-caloocan/"> Linkedin </a>
 - <a href="https://gdsc.community.dev/university-of-the-east-caloocan-campus/#"> Email </a>
+
+<marquee> © 2023 Developer Student's Club UE Caloocan </marquee>
