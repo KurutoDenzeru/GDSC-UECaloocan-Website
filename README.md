@@ -8,7 +8,12 @@ GDSC UE Caloocan, a community group for college and university students interest
 - <a href="https://developer.mozilla.org/en-US/docs/Glossary/GZip_compression"> GZip Compression </a> - based on the Deflate algorithm that allows files to be made smaller in size which allows for faster network transfers.
 - <a href="https://developer.mozilla.org/en-US/docs/Glossary/Brotli_compression"> Brotli </a> - general-purpose lossless compression algorithm.
 
-# Reference(s):
+<br />
+
+# 📝 References:
+- 
+
+# 🌎 Social Media Handle:
 - <a href="https://gdsc.community.dev/university-of-the-east-caloocan-campus/"> GDSC Community Dev </a>
 - <a href="https://www.facebook.com/gdscuecaloocan"> Facebook </a>
 - <a href="https://www.linkedin.com/company/google-developer-student-clubs-ue-caloocan/"> Linkedin </a>
