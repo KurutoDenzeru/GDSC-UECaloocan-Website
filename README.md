@@ -9,4 +9,7 @@ GDSC UE Caloocan, a community group for college and university students interest
 - <a href="https://developer.mozilla.org/en-US/docs/Glossary/Brotli_compression"> Brotli </a> - general-purpose lossless compression algorithm.
 
 # Reference(s):
-- 
+- <a href="https://gdsc.community.dev/university-of-the-east-caloocan-campus/"> GDSC Community Dev </a>
+- <a href="https://www.facebook.com/gdscuecaloocan"> Facebook </a>
+- <a href="https://www.linkedin.com/company/google-developer-student-clubs-ue-caloocan/"> Linkedin </a>
+- <a href="https://gdsc.community.dev/university-of-the-east-caloocan-campus/#"> Email </a>
