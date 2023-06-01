@@ -1,5 +1,13 @@
-# 🔰 Google Developer Student's Club UE Caloocan Website
-GDSC UE Caloocan, a community group for college and university students interested in Google developer technologies. 
+<p align=center>
+  <img align="center" alt="Banner" src ="https://scontent.fmnl3-2.fna.fbcdn.net/v/t39.30808-6/307167113_117078824464755_6461386438256405854_n.png?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFf4jKyk60jGVAwTt4nX4S2nJlC_GyApQycmUL8bIClDMLaxoGHm6COzwacilPdKktaBHPZUR1ACnefoDik0df9&_nc_ohc=ujnuKhxBzEQAX_1IJeB&_nc_ht=scontent.fmnl3-2.fna&oh=00_AfCS1xIROSDtE698rR9cBgPMzbZ8HMQ3v8ZtMqCrXul0Rg&oe=647E5AD0"/>
+</p>
+
+<h1 align="center">Google Developer Student's Club UE Caloocan Website </h1>
+
+<br />
+
+# ✏ About
+Google Developer Student Clubs University of the East Caloocan is a community group for college and university students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome.
 
 <br />
 
