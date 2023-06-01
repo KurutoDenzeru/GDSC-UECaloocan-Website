@@ -11,7 +11,9 @@ GDSC UE Caloocan, a community group for college and university students interest
 <br />
 
 # 📝 References:
-- 
+- <a href="https://www.gdscloyola.org/"> GDSC - Loyala </a> - Website of GDSC, Ateneo de Manila University Loyola School.
+
+<br />
 
 # 🌎 Social Media Handle:
 - <a href="https://gdsc.community.dev/university-of-the-east-caloocan-campus/"> GDSC Community Dev </a>
