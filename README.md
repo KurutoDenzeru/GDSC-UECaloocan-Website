@@ -30,4 +30,7 @@ Google Developer Student Clubs University of the East Caloocan is a community gr
 
 <br />
 
+<p align=center>
+<img align="center" alt="Footer" width="150px" src ="https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-dsc/contentbuilder/logo_dark_stacked_5giak2X.svg"/>
+</p>
 <p align=center> © 2023 Developer Student's Club UE Caloocan </p>
