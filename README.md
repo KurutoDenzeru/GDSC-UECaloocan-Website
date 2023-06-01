@@ -12,7 +12,7 @@ GDSC UE Caloocan, a community group for college and university students interest
 
 # 📝 References:
 - <a href="https://www.gdscloyola.org/"> GDSC - Loyala </a> - Website of GDSC, Ateneo de Manila University Loyola School.
-- <a href="https://www.figma.com/file/teAZAttivRLwWlLldnVS17/GDSC?type=design&node-id=0-1&t=YvpxERi6DIlzg4rt-0&fbclid=IwAR3zyYZskgf6e-MeAZSJwYYFJC9o2KX_tftb5SJjaa2o1KWdWh7N5lgo7d8"> Figma </a> - Our frontend documentation workflow
+- <a href="https://www.figma.com/file/teAZAttivRLwWlLldnVS17/GDSC?type=design&node-id=0-1&t=YvpxERi6DIlzg4rt-0&fbclid=IwAR3zyYZskgf6e-MeAZSJwYYFJC9o2KX_tftb5SJjaa2o1KWdWh7N5lgo7d8"> Figma </a> - Our collaborative frontend web application prototype design workflow.
 
 <br />
 
