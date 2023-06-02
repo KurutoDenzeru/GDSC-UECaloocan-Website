@@ -18,6 +18,7 @@ Google Developer Student Clubs University of the East Caloocan is a community gr
 <br />
 
 # 📝 References:
+- <a href="https://sharing.clickup.com/9008172421/g/h/4-90080336673-7/2283e58bd614cf9"> ClickUp Gantt Chart </a> - Project from start to finish with highly customizable views that make project planning a breeze.
 - <a href="https://www.gdscloyola.org/"> GDSC - Loyala </a> - Website of GDSC, Ateneo de Manila University Loyola School.
 - <a href="https://www.figma.com/file/teAZAttivRLwWlLldnVS17/GDSC?type=design&node-id=0-1&t=YvpxERi6DIlzg4rt-0&fbclid=IwAR3zyYZskgf6e-MeAZSJwYYFJC9o2KX_tftb5SJjaa2o1KWdWh7N5lgo7d8"> Figma </a> - Our collaborative frontend web application prototype design workflow.
 
