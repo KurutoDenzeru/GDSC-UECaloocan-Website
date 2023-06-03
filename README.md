@@ -8,6 +8,7 @@ Google Developer Student Clubs University of the East Caloocan is a community gr
 
 <br />
 
+
 # 📚 Libraries / Frameworks Used: (MEAN Stack)
 - <a href="https://www.mongodb.com/"> Mongo DB </a> - Data platform that provides the services and tools necessary to build distributed applications fast, at the performance and scale users demand.
 - <a href="https://expressjs.com/"> Express JS </a> - Minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
