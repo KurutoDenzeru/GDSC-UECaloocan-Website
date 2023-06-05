@@ -17,10 +17,11 @@
 | Cyrus Mante | Chief Consultant | Facilitator | ----------- |
 | Phillip Jan Moran | Chief Consultant | Front-End Development | ----------- |
 | Emmanuel Forfieda | Chief Communications Officer | Content Writter | ----------- |
-| Aidan Del Pilar | Associate Data Science Lead | Media Assets & Content Writting | ----------- |
+| Adrian Cuevas | Cloud Development Lead | Cloud Engineer & Web Deployment | ----------- |
+| Aidan Del Pilar | Data Science Lead | Media Assets & Content Writting | ----------- |
 | Aronn Duran | Associate Data Science Lead | Wireframing & Content Writting | ----------- |
 | Joshua Aus | Associate Data Science Lead | Media Assets & Content Writting | ----------- |
-| Adrian Cuevas | Cloud Development Lead | Cloud Engineer & Web Deployment | ----------- |
+
   
 <br />
 
