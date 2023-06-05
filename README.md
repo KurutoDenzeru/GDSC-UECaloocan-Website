@@ -9,34 +9,25 @@ Google Developer Student Clubs University of the East Caloocan is a community gr
 <br />
 
 
-# 📚 Copyright:
-mGBA is Copyright © 2023 – Present GDSC UE Caloocan. It is distributed under the <a href="https://opensource.org/license/mit/"> Massachusetts Institute of Technology (MIT) </a>. A copy of the license is available in the distributed LICENSE file.
-
-mGBA contains the following third-party libraries:
-- <a href="https://astro.build/"> Astro JS </a> - modern web development framework that allows developers to create fast and lightweight websites.
-- <a href="https://www.mongodb.com/"> Mongo DB </a> - Data platform that provides the services and tools necessary to build distributed applications fast, at the performance and scale users demand.
-- <a href="https://expressjs.com/"> Express JS </a> - Minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
-- <a href="https://react.dev/"> React JS </a> - avaScript framework and library developed by Facebook.
-- <a href="https://nodejs.org/"> Node JS </a> - Open-source, cross-platform JavaScript runtime environment.
-
-
 <br />
 
 # 📝 References:
+GDSC UE Caloocan Website contains the following study material references:
 - <a href="https://sharing.clickup.com/9008172421/g/h/4-90080336673-7/2283e58bd614cf9"> ClickUp Gantt Chart </a> - Project from start to finish with highly customizable views that make project planning a breeze.
 - <a href="https://www.gdscloyola.org/"> GDSC - Loyala </a> - Website of GDSC, Ateneo de Manila University Loyola School.
 - <a href="https://www.figma.com/file/teAZAttivRLwWlLldnVS17/GDSC?type=design&node-id=0-1&t=YvpxERi6DIlzg4rt-0&fbclid=IwAR3zyYZskgf6e-MeAZSJwYYFJC9o2KX_tftb5SJjaa2o1KWdWh7N5lgo7d8"> Figma </a> - Our collaborative frontend web application prototype design workflow.
 
 <br />
 
-# 🚀 Performance optimizations for the Website:
+# 🚀 Performance optimizations for the Website
 - <a href="https://developer.mozilla.org/en-US/docs/Glossary/Minification"> Minification </a> - process of removing unnecessary or redundant data without affecting how a resource is processed by the browser.
 - <a href="https://developer.mozilla.org/en-US/docs/Glossary/GZip_compression"> GZip Compression </a> - based on the Deflate algorithm that allows files to be made smaller in size which allows for faster network transfers.
 - <a href="https://developer.mozilla.org/en-US/docs/Glossary/Brotli_compression"> Brotli </a> - general-purpose lossless compression algorithm.
 
 <br />
 
-# 🌎 Social Media Handle:
+# 📧 Contact Us
+You could follow us up for more inquiries in our social media platforms/contacts:
 - <a href="https://gdsc.community.dev/university-of-the-east-caloocan-campus/"> GDSC Community Dev </a>
 - <a href="https://www.facebook.com/gdscuecaloocan"> Facebook </a>
 - <a href="https://www.linkedin.com/company/google-developer-student-clubs-ue-caloocan/"> Linkedin </a>
@@ -44,6 +35,18 @@ mGBA contains the following third-party libraries:
 
 <br />
 
+
+# 📜 Copyright
+GDSC UE Caloocan Website is Copyright © 2023 – 2024 Kurt Calacday. It is distributed under the <a href="https://opensource.org/license/mit/"> Massachusetts Institute of Technology (MIT) </a>. A copy of the license is available in the distributed LICENSE file.
+
+GDSC UE Caloocan Website contains the following third-party libraries:
+- <a href="https://astro.build/"> Astro JS </a> - modern web development framework that allows developers to create fast and lightweight websites.
+- <a href="https://www.mongodb.com/"> Mongo DB </a> - Data platform that provides the services and tools necessary to build distributed applications fast, at the performance and scale users demand.
+- <a href="https://expressjs.com/"> Express JS </a> - Minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+- <a href="https://react.dev/"> React JS </a> - avaScript framework and library developed by Facebook.
+- <a href="https://nodejs.org/"> Node JS </a> - Open-source, cross-platform JavaScript runtime environment.
+
+<br />
 <p align=center>
 <img align="center" alt="Footer" width="150px" src ="https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-dsc/contentbuilder/logo_dark_stacked_5giak2X.svg"/>
 </p>
