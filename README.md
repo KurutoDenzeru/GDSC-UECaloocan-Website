@@ -9,10 +9,14 @@ Google Developer Student Clubs University of the East Caloocan is a community gr
 <br />
 
 
-# 📚 Libraries / Frameworks Used: (MEAN Stack)
+# 📚 Copyright:
+mGBA is Copyright © 2023 – Present GDSC UE Caloocan. It is distributed under the <a href="https://opensource.org/license/mit/"> Massachusetts Institute of Technology (MIT) </a>. A copy of the license is available in the distributed LICENSE file.
+
+mGBA contains the following third-party libraries:
+- <a href="https://astro.build/"> Astro JS </a> - modern web development framework that allows developers to create fast and lightweight websites.
 - <a href="https://www.mongodb.com/"> Mongo DB </a> - Data platform that provides the services and tools necessary to build distributed applications fast, at the performance and scale users demand.
 - <a href="https://expressjs.com/"> Express JS </a> - Minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
-- <a href="https://angularjs.org/"> Angular JS </a> - Toolset for building the framework most suited to your application development. It is fully extensible and works well with other libraries.
+- <a href="https://react.dev/"> React JS </a> - avaScript framework and library developed by Facebook.
 - <a href="https://nodejs.org/"> Node JS </a> - Open-source, cross-platform JavaScript runtime environment.
 
 
