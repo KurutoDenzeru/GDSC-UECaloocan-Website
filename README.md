@@ -4,14 +4,27 @@
 
 <h1 align="center">Google Developer Student Club UE Caloocan Website </h1>
 
-Google Developer Student Clubs University of the East Caloocan is a community group for college and university students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome.
+> Google Developer Student Clubs University of the East Caloocan is a community group for college and university students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome.
 
 <br />
 
-
+# 🤼 Contributors
+**Founder Contributors** of the project:
+| Name | Position | Role |  Description |
+| :---        |    :----:   |    :----:   |          ---: |
+| Kurt Calacday | Web Development Lead | Project Head, Front-End Developement & Documentation | ----------- |
+| Kurt Cadenas | Chief Technology Officer | Co - Project Head & Back-End Developement | ----------- |
+| Cyrus Mante | Chief Consultant | Facilitator | ----------- |
+| Phillip Jan Moran | Chief Consultant | Front-End Development | ----------- |
+| Emmanuel Forfieda | Chief Communications Officer | Content Writter | ----------- |
+| Aidan Del Pilar | Associate Data Science Lead | Media Assets & Content Writting | ----------- |
+| Aronn Duran | Associate Data Science Lead | Wireframing & Content Writting | ----------- |
+| Joshua Aus | Associate Data Science Lead | Media Assets & Content Writting | ----------- |
+| Adrian Cuevas | Cloud Development Lead | Cloud Engineer & Web Deployment | ----------- |
+  
 <br />
 
-# 📝 References:
+# 📝 References
 GDSC UE Caloocan Website contains the following study material references:
 - <a href="https://sharing.clickup.com/9008172421/g/h/4-90080336673-7/2283e58bd614cf9"> ClickUp Gantt Chart </a> - Project from start to finish with highly customizable views that make project planning a breeze.
 - <a href="https://www.gdscloyola.org/"> GDSC - Loyala </a> - Website of GDSC, Ateneo de Manila University Loyola School.
