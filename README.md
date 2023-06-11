@@ -13,14 +13,14 @@
 | Name | Position | Role |  Description |
 | :---        |    :----:   |    :----:   |          ---: |
 | Kurt Calacday | Web Development Lead | Project Head, Front-End Developement & Documentation | ----------- |
-| Kurt Cadenas | Chief Technology Officer | Co - Project Head & Back-End Developement | ----------- |
+| Kurt Cadenas | Chief Technology Officer | Co - Project Head & Back-End Development | ----------- |
 | Cyrus Mante | Chief Consultant | Facilitator | ----------- |
 | Phillip Jan Moran | Chief Consultant | Front-End Development | ----------- |
-| Emmanuel Forfieda | Chief Communications Officer | Content Writter | ----------- |
+| Emmanuel Forfieda | member | Front-End Developer & Content Writer | ----------- |
 | Adrian Cuevas | Cloud Development Lead | Cloud Engineer & Web Deployment | ----------- |
 | Aidan Del Pilar | Data Science Lead | Media Assets & Content Writting | ----------- |
-| Aronn Duran | Associate Data Science Lead | Wireframing & Content Writting | ----------- |
-| Joshua Aus | Associate Data Science Lead | Media Assets & Content Writting | ----------- |
+| Aronn Duran | Associate Data Science Lead | Wireframing & Content Writer | ----------- |
+| Joshua Aus | Associate Data Science Lead | Media Assets & Content Writer | ----------- |
 
   
 <br />
